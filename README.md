@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhawrdahn
 - 👀 I’m interested in making fun and useful apps and games.
-- 🌱 I’m currently learning Next js, GCP, Docker, Supabase, Stsck Development
+- 🌱 I’m currently learning Next js, GCP, Docker, Supabase
 - 💞️ I’m looking to collaborate on small self improvement apps
 - 📫 How to reach me - drop me an email
 - 😄 Pronouns: He/They
